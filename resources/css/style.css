@@ -1,4 +1,4 @@
-*{
+* {
 	Font-family: Verdana;
 	Text-align: center;
 	Background-color: black;
@@ -11,7 +11,7 @@ h1{
 /* for all headers */
 }
 
-.link{
+p.link{
 	Color: aquamarine;
 	Font-size: 16px;
 /* this declaration styles both links on the page at once */
