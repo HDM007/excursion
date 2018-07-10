@@ -10,13 +10,13 @@ h1{
 	Font-size: 50px;
 }
 
-.link{
+p.link{
 	Color: aquamarine;
 	Font-size: 16px;
 }
 
 
-.content{
+h1.content{
 	Font-weight: 300;
 	Font-size: 42px;
 }
