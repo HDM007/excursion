@@ -10,23 +10,23 @@ h1{
 	Font-size: 50px;
 }
 
-p.link{
+.link{
 	Color: aquamarine;
 	Font-size: 16px;
 }
 
 
-h1.content{
+.content{
 	Font-weight: 300;
 	Font-size: 42px;
 }
 
-#description{
+#description p{
 	Font-size: 21px;
 	Color: gray;
 }
 
-#copyright{
+#copyright p{
 	Text-align: right;
 	Color: gray;
 }
