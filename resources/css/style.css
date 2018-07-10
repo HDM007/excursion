@@ -8,30 +8,25 @@ h1{
 	Color: white;
 	Font-weight: normal;
 	Font-size: 50px;
-/* for all headers */
 }
 
-p.link{
+.link{
 	Color: aquamarine;
 	Font-size: 16px;
-/* this declaration styles both links on the page at once */
 }
 
 
 .content{
 	Font-weight: 300;
 	Font-size: 42px;
-/* this declaration is for the two headers in the “content” of the page */
 }
 
 #description{
 	Font-size: 21px;
 	Color: gray;
-/* this declaration is for the single sentence under the second header */
 }
 
 #copyright{
 	Text-align: right;
 	Color: gray;
-/* this declaration styles the footer found at the bottom right of the page */
 }
