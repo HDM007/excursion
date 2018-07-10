@@ -21,12 +21,12 @@ a{
 	Font-size: 42px;
 }
 
-#description p{
-	Font-size: 21px;
-	Color: gray;
+#description{
+  font-size: 21px;
+  color: gray;
 }
 
-#copyright p{
-	Text-align: right;
-	Color: gray;
+#copyright{
+  color: gray;
+  text-align: right;
 }
